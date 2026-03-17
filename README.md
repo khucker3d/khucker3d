@@ -13,10 +13,8 @@ Real-time pipelines, shaders, VFX systems, and production tools.
 
 ### Projects
 
-- ta-unity-material-analyzer  
-- ta-shader-library  
-- ta-maya-python-tools  
-- ta-unreal-ui-fx  
+- https://github.com/khucker3d/ta-unity-shaderlab-hlsl-breakdown-standard-pbr
+- https://github.com/khucker3d/ta-unity-shaderlab-cg-breakdown-ui-default
 
 ---
 
@@ -26,11 +24,11 @@ Blue team labs, SIEM pipelines, and endpoint security.
 
 ### Projects
 
-- cyber-homelab-blue-team-setup  
-- cyber-homelab-wazuh-log-pipeline  
-- cyber-secure-device-decommissioning  
-- cyber-bitlocker-full-drive-encryption  
-- cyber-ide-and-lab-workspace-setup  
+- https://github.com/khucker3d/cyber-homelab-blue-team-setup
+- https://github.com/khucker3d/cyber-homelab-wazuh-log-pipeline
+- https://github.com/khucker3d?tab=repositories#:~:text=cyber%2Dsecure%2Ddevice%2Ddecommissioning 
+- https://github.com/khucker3d/cyber-bitlocker-full-drive-encryption
+- https://github.com/khucker3d/cyber-ide-and-lab-workspace-setup
 
 ---
 
