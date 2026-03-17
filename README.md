@@ -8,8 +8,13 @@ Background in pipeline engineering, now applying that mindset to blue team secur
 ---
 
 ## 🎮 Technical Art
-
 Real-time pipelines, shaders, VFX systems, and production tools.
+
+LinkedIn: https://www.linkedin.com/in/khucker3d/
+
+Website: https://khucker3d.carbonmade.com/
+
+Resume: https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_TechnicalArtist.pdf
 
 ### Projects
 
@@ -22,7 +27,11 @@ Real-time pipelines, shaders, VFX systems, and production tools.
 
 Blue team labs, SIEM pipelines, and endpoint security.
 
-### Projects
+LinkedIn: https://www.linkedin.com/in/khucker3d/
+
+Resume: https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurtiy.pdf
+
+### Cybersecurity Projects
 
 - https://github.com/khucker3d/cyber-homelab-blue-team-setup
 - https://github.com/khucker3d/cyber-homelab-wazuh-log-pipeline
@@ -32,15 +41,9 @@ Blue team labs, SIEM pipelines, and endpoint security.
 
 ---
 
-## 🧠 Focus
+## Cybersecurity Focus
 
 - Detection engineering  
 - SIEM pipelines (Wazuh, Splunk)  
 - Endpoint security and hardening  
 - Structured lab environments  
-
----
-
-## 🔗 Links
-Portfolio: https://khucker3d.carbonmade.com  
-LinkedIn: https://www.linkedin.com/in/khucker3d/
