@@ -1,16 +1,48 @@
-## Hi there 👋
+# Kellie Hucker
 
-<!--
-**khucker3d/khucker3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Artist and Cybersecurity Practitioner  
 
-Here are some ideas to get you started:
+I build tools, automate workflows, and design structured systems.  
+Background in pipeline engineering, now applying that mindset to blue team security and governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Technical Art
+
+Real-time pipelines, shaders, VFX systems, and production tools.
+
+### Projects
+
+- ta-unity-material-analyzer  
+- ta-shader-library  
+- ta-maya-python-tools  
+- ta-unreal-ui-fx  
+
+---
+
+## 🔐 Cybersecurity
+
+Blue team labs, SIEM pipelines, and endpoint security.
+
+### Projects
+
+- cyber-homelab-blue-team-setup  
+- cyber-homelab-wazuh-log-pipeline  
+- cyber-secure-device-decommissioning  
+- cyber-bitlocker-full-drive-encryption  
+- cyber-ide-and-lab-workspace-setup  
+
+---
+
+## 🧠 Focus
+
+- Detection engineering  
+- SIEM pipelines (Wazuh, Splunk)  
+- Endpoint security and hardening  
+- Structured lab environments  
+
+---
+
+## 🔗 Links
+Portfolio: https://khucker3d.carbonmade.com  
+LinkedIn: https://www.linkedin.com/in/khucker3d/
