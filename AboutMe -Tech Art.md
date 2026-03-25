@@ -22,7 +22,6 @@ I’m a Senior Technical Artist and leader specializing in building scalable, pr
 #### Engines:
 - Unity (Primary)
 - Cocos Creator / Cocos2d
-- Godot
 - Unreal Engine (actively learning)
 
 #### Languages
@@ -58,7 +57,7 @@ I’m a Senior Technical Artist and leader specializing in building scalable, pr
 
 ---
 
-### Philosophy
+### Tech Art Philosophy
 - Build systems that scale, not just features that ship
 - Optimize early, validate often
 - Make tools artist-friendly and production-safe
@@ -74,35 +73,7 @@ I’m a Senior Technical Artist and leader specializing in building scalable, pr
 
 ---
 
-### Tech Art Projects (Tech Docs): (Under construction)
-- https://github.com/khucker3d/ta-unity-shaderlab-hlsl-breakdown-standard-pbr
-- https://github.com/khucker3d/ta-unity-shaderlab-cg-breakdown-ui-default
+### Tech Art Doc Examples: (Under construction)
+_**Note:** A more detailed version of this documentation is maintained in my personal Confluence. This repository provides a public-facing example._
+- Unity Shaders: https://github.com/khucker3d/ta-unity-shader-docs
 
----
-
-## 🔐 Cybersecurity
-My cybersecurity interests center around network security, blue team defense, and detection engineering. I am particularly interested in how data moves through systems, how threats are identified through logs and telemetry, and how secure network environments are designed and maintained. I am also exploring network engineering and GRC, with a focus on aligning technical controls with real-world risk and compliance requirements. My goal is to develop practical, well-documented security systems that are both effective and scalable.
-Blue team labs, SIEM pipelines, and endpoint security.
-
----
-
-### Cybersecurity Focus
-- Detection engineering
-- SIEM pipelines (Wazuh, Splunk)
-- Endpoint security and hardening
-- Structured lab environments
-
----
-
-### Links:
-- LinkedIn: https://www.linkedin.com/in/khucker3d/
-- Resume: https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurtiy.pdf
-
----
-
-### Cybersecurity Projects (Under construction)
-- https://github.com/khucker3d/cyber-homelab-blue-team-setup
-- https://github.com/khucker3d/cyber-homelab-wazuh-log-pipeline
-- https://github.com/khucker3d?tab=repositories#:~:text=cyber%2Dsecure%2Ddevice%2Ddecommissioning 
-- https://github.com/khucker3d/cyber-bitlocker-full-drive-encryption
-- https://github.com/khucker3d/cyber-ide-and-lab-workspace-setup
