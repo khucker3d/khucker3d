@@ -21,7 +21,7 @@ In parallel, I am progressing through the Google Cybersecurity Professional Cert
 
 ### Links:
 - LinkedIn: https://www.linkedin.com/in/khucker3d/
-- Resume: https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurtiy.pdf
+- Resume: https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf
 
 ---
 
