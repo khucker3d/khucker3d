@@ -8,6 +8,7 @@
 - [Contact](https://www.linkedin.com/in/khucker3d/)
 
 ### Projects 
+*Note: These are high-level workflows for setting up my home labs. I have detailed docs on each home lab setup on my personal Confluence site.*
 - [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md)
 - [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
 - [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
