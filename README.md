@@ -1,14 +1,11 @@
-# Kellie Hucker
-
-Cybersecurity (Blue Team) | Senior Technical Artist
+# Kellie Hucker: Technical Projects
 
 ---
 
-## Cybersecurity Portfolio
-Blue Team lab, detection engineering, SIEM pipelines, and automation.
-- [About- MyCybersecurity Journey](link)
+## [Cybersecurity Porjects](link) 
 
-### Featured Projects
+#### Featured Projects
+Blue Team lab, detection engineering, SIEM pipelines, and automation.
 - [Blue Team Lab (Splunk + Wazuh)](link)
 - [Detection Engineering](link)
 - [Python SOC Automation](link)
@@ -16,7 +13,7 @@ Blue Team lab, detection engineering, SIEM pipelines, and automation.
 
 ---
 
-## Focus Areas
+#### Focus Areas
 - Pipeline Optimization & Tooling
 - Detection Engineering (MITRE ATT&CK)
 - SIEM (Splunk, Wazuh)
@@ -24,18 +21,40 @@ Blue Team lab, detection engineering, SIEM pipelines, and automation.
 
 ---
 
-## Technical Art Portfolio
-Real-time game development, asset pipelines, shaders, VFX, and tools.
-- [Technical Artist Website]([link](https://khucker3d.carbonmade.com/))
+## [Technical Artist Portfolio:](https://khucker3d.carbonmade.com) 
+Real-time game development, asset pipelines, VFX, and tools.
 
-### Featured Projects
-- [Unity Shader Library](link)
-- [VFX Sequencer Tool](link)
-- [UI Systems Framework](link)
-- [Material Analyzer Tool](link)
+##### Unity Projects:
+- [CG/HLSL](https://khucker3d.carbonmade.com/projects/7270212)
+- [Shader Graph](https://khucker3d.carbonmade.com/projects/6979241)
+- [Particle Systems](https://khucker3d.carbonmade.com/projects/7270220)
+- [Animation Systems](https://khucker3d.carbonmade.com/projects/7270213)
+- [Font Systems](https://khucker3d.carbonmade.com/projects/7282642)
+- [Asset Systems](https://khucker3d.carbonmade.com/projects/7277182)
+- [Tools](https://khucker3d.carbonmade.com/projects/7270236)
+- [UI](https://khucker3d.carbonmade.com/projects/7269940)
+- [Lighting & Post Processing](https://khucker3d.carbonmade.com/projects/6978293) 
+
+##### Unreal Projects:
+- [Materials](https://khucker3d.carbonmade.com/projects/7277683)
+- [Niagara](https://khucker3d.carbonmade.com/projects/7278680)
+- [Blueprints](https://khucker3d.carbonmade.com/projects/7278703)
+
+##### Cocos Creator Projects:
+- [Javascript](https://khucker3d.carbonmade.com/projects/7240687)
+- [Animation](https://khucker3d.carbonmade.com/projects/7278472)
+
+##### Python Automation Projects:
+- [Tools & Validation](https://khucker3d.carbonmade.com/projects/7254185)
+- [Maya Automation](https://khucker3d.carbonmade.com/projects/5634627)
+
+##### DCC Projects:
+- [Maya](https://khucker3d.carbonmade.com/projects/6979333)
+- [Photoshop](https://khucker3d.carbonmade.com/projects/7278458)
+- [Photoshop Automation](https://khucker3d.carbonmade.com/projects/7279184)
 
 ---
 
-## Contact
+## Contact:
 - LinkedIn: https://www.linkedin.com/in/khucker3d/
-
+- Email: khucker3d@gmail.com (NO SOLICITING!)
