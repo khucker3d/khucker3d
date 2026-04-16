@@ -7,17 +7,16 @@
 - [Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf)
 - [Contact](https://www.linkedin.com/in/khucker3d/)
 
-### Cybersecurity Projects 
-- [Blue Team Lab (Splunk + Wazuh)](link)
-- [Detection Engineering](link)
-- [Python SOC Automation](link)
-- [Active Directory Lab](link)
-
-### Focused Areas of Study
-- Pipeline Optimization & Tooling
-- Detection Engineering (MITRE ATT&CK)
-- SIEM (Splunk, Wazuh)
-- Automation (Python, PowerShell)
+### Projects 
+- [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md)
+- [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
+- [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
+- [Wazuh SIEM Home Lab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md)
+- [Dedicated Cybersecurity IDE and Lab Workspace Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Dedicated%20Cybersecurity%20IDE%20and%20Lab%20Workspace%20Setup.md)
+- [Coming Soon: SIEM](Link)
+- [Coming Soon: Detection Engineering](Link)
+- [Coming Soon: Active Directory Lab](Link)
+- [Coming Soon: Automation](Link)
 
 ---
 
