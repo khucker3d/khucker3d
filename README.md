@@ -2,18 +2,14 @@
 
 ---
 
-## [Cybersecurity Porjects](link) 
-
-#### Featured Projects
+## [Cybersecurity Homelab Projects](link) 
 Blue Team lab, detection engineering, SIEM pipelines, and automation.
 - [Blue Team Lab (Splunk + Wazuh)](link)
 - [Detection Engineering](link)
 - [Python SOC Automation](link)
 - [Active Directory Lab](link)
 
----
-
-#### Focus Areas
+#### Focused Areas of Study
 - Pipeline Optimization & Tooling
 - Detection Engineering (MITRE ATT&CK)
 - SIEM (Splunk, Wazuh)
@@ -21,7 +17,7 @@ Blue Team lab, detection engineering, SIEM pipelines, and automation.
 
 ---
 
-## [Technical Artist Portfolio:](https://khucker3d.carbonmade.com) 
+## [Technical Artist Projects:](https://khucker3d.carbonmade.com) 
 Real-time game development, asset pipelines, VFX, and tools.
 
 ##### Unity Projects:
