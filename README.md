@@ -2,14 +2,18 @@
 
 ---
 
-## [Cybersecurity Homelab Projects](link) 
-Blue Team lab, detection engineering, SIEM pipelines, and automation.
+## Cybersecurity: Blue Team lab, detection engineering, SIEM pipelines, and automation.
+- [About](https://github.com/khucker3d/about-me/blob/main/About%20Me%20-%20Cybersecurity.md)
+- [Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf)
+- [Contact](https://www.linkedin.com/in/khucker3d/)
+
+### Cybersecurity Projects 
 - [Blue Team Lab (Splunk + Wazuh)](link)
 - [Detection Engineering](link)
 - [Python SOC Automation](link)
 - [Active Directory Lab](link)
 
-#### Focused Areas of Study
+### Focused Areas of Study
 - Pipeline Optimization & Tooling
 - Detection Engineering (MITRE ATT&CK)
 - SIEM (Splunk, Wazuh)
@@ -17,8 +21,10 @@ Blue Team lab, detection engineering, SIEM pipelines, and automation.
 
 ---
 
-## [Technical Artist Projects:](https://khucker3d.carbonmade.com) 
-Real-time game development, asset pipelines, VFX, and tools.
+## Technical Artist: Real-time game development, asset pipelines, VFX, and tools.
+- [About](https://github.com/khucker3d/about-me/blob/main/AboutMe%20-%20Tech%20Art.md)
+- [Khucker Technical Artist Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_TechnicalArtist.pdf)
+- [Contact](https://www.linkedin.com/in/khucker3d/)
 
 ##### Unity Projects:
 - [CG/HLSL](https://khucker3d.carbonmade.com/projects/7270212)
@@ -48,9 +54,3 @@ Real-time game development, asset pipelines, VFX, and tools.
 - [Maya](https://khucker3d.carbonmade.com/projects/6979333)
 - [Photoshop](https://khucker3d.carbonmade.com/projects/7278458)
 - [Photoshop Automation](https://khucker3d.carbonmade.com/projects/7279184)
-
----
-
-## Contact:
-- LinkedIn: https://www.linkedin.com/in/khucker3d/
-- Email: khucker3d@gmail.com (NO SOLICITING!)
