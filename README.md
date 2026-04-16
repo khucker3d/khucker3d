@@ -5,18 +5,25 @@ Senior Technical Artist | Cybersecurity (Blue Team, Detection Engineering)
 
 ## Portfolio Overview
 ### Cybersecurity: 
+<img width="100" height="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/9c1c5aee-359c-4130-8382-ad6e30ba2c71" />
+
 Blue Team lab development, detection engineering, SIEM pipelines, and security automation.
 - [About](https://github.com/khucker3d/about-me/blob/main/About%20Me%20-%20Cybersecurity.md)
 - [Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf)
 
-#### Projects 
+#### Projects:
 *These projects represent high-level workflows for building and managing production pipelines and cybersecurity lab environments.
 Detailed documentation is maintained separately in my personal Confluence workspace.*
 - [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md)
+  - Established a secure device disposal process aligned with data protection best practices and lifecycle security controls
 - [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
+  - Applied full-disk encryption to protect sensitive data at rest and strengthen endpoint security posture
 - [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
+  - Built a SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
 - [Wazuh SIEM Home Lab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md)
+  - Implemented endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
 - [Dedicated Cybersecurity IDE and Lab Workspace Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Dedicated%20Cybersecurity%20IDE%20and%20Lab%20Workspace%20Setup.md)
+  - Designed a structured lab and development environment to support efficient security analysis, scripting, and tool integration
 
 ##### Coming Soon
 - SIEM Detection Engineering
@@ -25,9 +32,11 @@ Detailed documentation is maintained separately in my personal Confluence worksp
 
 ---
 
-### Technical Artist: Real-time game development, asset pipelines, VFX, and tools.
-- [About](https://github.com/khucker3d/about-me/blob/main/AboutMe%20-%20Tech%20Art.md)
-- [Khucker Technical Artist Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_TechnicalArtist.pdf)
+### Technical Artist: 
+LOGO IMAGE HERE
+
+Real-time game development, asset pipelines, VFX, and tools.
+- [About & Resume](https://khucker3d.carbonmade.com/about)
 
 #### Unity Projects:
 - [CG/HLSL](https://khucker3d.carbonmade.com/projects/7270212)
