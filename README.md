@@ -33,7 +33,7 @@ Detailed documentation is maintained separately in my personal Confluence worksp
 ---
 
 ### Technical Artist: 
-<img width="110" height="191" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
+<img width="180" height="190" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
 
 Real-time game development, asset pipelines, VFX, and tools.
 - [About & Resume](https://khucker3d.carbonmade.com/about)
