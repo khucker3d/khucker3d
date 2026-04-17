@@ -5,7 +5,7 @@ Senior Technical Artist | Cybersecurity (Blue Team, Detection Engineering)
 
 ## Portfolio Overview
 ### Cybersecurity: 
-<img width="100" height="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/9c1c5aee-359c-4130-8382-ad6e30ba2c71" />
+<img width="100" height="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/0a7bb8c9-f60b-42f5-b035-b7ac15c84b46" />
 
 Blue Team lab development, detection engineering, SIEM pipelines, and security automation.
 - [About](https://github.com/khucker3d/about-me/blob/main/About%20Me%20-%20Cybersecurity.md)
@@ -33,7 +33,7 @@ Detailed documentation is maintained separately in my personal Confluence worksp
 ---
 
 ### Technical Artist: 
-LOGO IMAGE HERE
+<img width="110" height="191" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
 
 Real-time game development, asset pipelines, VFX, and tools.
 - [About & Resume](https://khucker3d.carbonmade.com/about)
