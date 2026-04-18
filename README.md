@@ -1,46 +1,64 @@
 # Kellie Hucker
-Senior Technical Artist | Cybersecurity
+### Senior Technical Artist | Cybersecurity Practitioner
 
-Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and a Senior Technical Artist in the mobile game industry and a student of cybersecurity. My background combines structured security discipline with years of experience building technical systems, pipelines, and tools in production environments.
+Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior Technical Artist in the mobile game industry, and a cybersecurity practitioner. My background combines structured security discipline with years of experience building technical systems, pipelines, tools, and production workflows in real-time environments.
 
-My cybersecurity interests center around network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure network environments are designed, monitored, and maintained.
+My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained.
+
+My goal is to build practical, well-documented security systems that are effective, scalable, and repeatable. Areas of focus include:
+- Blue team lab environments
+- SIEM pipelines and log analysis workflows using Wazuh and Splunk
+- Detection engineering
+- Endpoint monitoring, security, and hardening
+- Structured, repeatable security workflows
+
+I am actively building hands-on experience through lab development, documentation, and security-focused projects, supported by completion of the Google Cybersecurity Professional Certificate, strengthening both technical depth and operational discipline, including:
+- Active Directory lab environments
+- Splunk and Wazuh log pipelines
+- Detection rules mapped to MITRE ATT&CK
+- Endpoint hardening and monitoring workflows
+
+I have also developed a foundational understanding of hardware security risks, including reducing exposure through secure handling practices, trusted installation methods, and strong system hygiene fundamentals.
+
+My objective is to apply a systems-oriented mindset, disciplined documentation practices, and hands-on security experience toward a long-term career in cybersecurity.
 
 ---
 
-## Portfolio Overview
-### Cybersecurity: 
-<img width="100" height="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/0a7bb8c9-f60b-42f5-b035-b7ac15c84b46" />
-
-Blue Team lab development, detection engineering, SIEM pipelines, and security automation.
-- [About](https://github.com/khucker3d/about-me/blob/main/About%20Me%20-%20Cybersecurity.md)
-- [Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf)
-
-#### Projects:
+# Featured Projects Projects
 *These projects represent high-level workflows for building and managing production pipelines and cybersecurity lab environments.
 Detailed documentation is maintained separately in my personal Confluence workspace.*
+
+## Cybersecurity: 
+<p align="left">
+<img width="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/0a7bb8c9-f60b-42f5-b035-b7ac15c84b46" />
+</p>
+
+### Detection & Monitoring
+- [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
+  - Built a SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
+- [Wazuh SIEM Home Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md)
+  - Implemented endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
+- SIEM Detection Engineering (Coming Soon)
+
+### Infrastructure & Hardening
 - [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md)
   - Established a secure device disposal process aligned with data protection best practices and lifecycle security controls
 - [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
   - Applied full-disk encryption to protect sensitive data at rest and strengthen endpoint security posture
-- [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
-  - Built a SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
-- [Wazuh SIEM Home Lab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md)
-  - Implemented endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
-- [Dedicated Cybersecurity IDE and Lab Workspace Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Dedicated%20Cybersecurity%20IDE%20and%20Lab%20Workspace%20Setup.md)
-  - Designed a structured lab and development environment to support efficient security analysis, scripting, and tool integration
+- Active Directory Lab (Coming Soon)
 
-##### Coming Soon
-- SIEM Detection Engineering
-- Active Directory Lab
-- SOC Automation (Python)
+### Automation & Tooling
+- SOC Automation (Python) (Coming Soon)  
+- [Cybersecurity IDE and Lab Workspace Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Dedicated%20Cybersecurity%20IDE%20and%20Lab%20Workspace%20Setup.md)
+  - Designed a structured lab and development environment to support efficient security analysis, scripting, and tool integration
 
 ---
 
-### Technical Artist: 
-<img width="180" height="190" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
+## Technical Artist Projects
 
-Real-time game development, asset pipelines, VFX, and tools.
-- [About & Resume](https://khucker3d.carbonmade.com/about)
+<p align="left">
+<img width="100" alt="cyber_logo_01" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
+</p>
 
 #### Unity Projects:
 - [CG/HLSL](https://khucker3d.carbonmade.com/projects/7270212)
@@ -73,5 +91,52 @@ Real-time game development, asset pipelines, VFX, and tools.
 
 ---
 
-## Contact:
+
+## Core Areas
+- Realtime Shaders
+- VFX
+- Tools
+- Asset Pipelines
+- UI Systems
+
+## Featured Projects
+
+### Unity
+- CG/HLSL  
+- Shader Graph  
+- Tools  
+- UI
+
+### Unreal
+- Materials  
+- Niagara  
+- Blueprints
+
+### Python & DCC
+- Maya Automation  
+- Tools & Validation  
+- Photoshop Automation
+
+---
+
+# RESUMES
+- Cybersecurity Resume  
+- Technical Artist Resume
+
+# CONTACT
+- LinkedIn
+
+---
+
+## Contact & Resumes:
 - [LinkedIn](https://www.linkedin.com/in/khucker3d/)
+- [Cybersecurity Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurtiy.pdf)
+- [Tech Art Resume](https://khucker3d.carbonmade.com/about)
+
+
+
+### Technical Artist:
+<img width="180" height="190" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
+
+
+
