@@ -14,24 +14,7 @@ Detailed documentation is maintained separately in my personal Confluence worksp
 <img width="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/0a7bb8c9-f60b-42f5-b035-b7ac15c84b46" />
 </p>
 
-### Detection & Monitoring
-- [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md)
-  - Built a SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
-- [Wazuh SIEM Home Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md)
-  - Implemented endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
-- SIEM Detection Engineering (Coming Soon)
-
-### Infrastructure & Hardening
-- [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md)
-  - Established a secure device disposal process aligned with data protection best practices and lifecycle security controls
-- [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
-  - Applied full-disk encryption to protect sensitive data at rest and strengthen endpoint security posture
-- Active Directory Lab (Coming Soon)
-
-### Automation & Tooling
-- SOC Automation (Python) (Coming Soon)  
-- [Cybersecurity IDE and Lab Workspace Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Dedicated%20Cybersecurity%20IDE%20and%20Lab%20Workspace%20Setup.md)
-  - Designed a structured lab and development environment to support efficient security analysis, scripting, and tool integration
+https://github.com/khucker3d/khucker3d/blob/main/cybersecurity_path
 
 ---
 
