@@ -1,5 +1,9 @@
 # Kellie Hucker
-Senior Technical Artist | Cybersecurity (Blue Team, Detection Engineering)
+Senior Technical Artist | Cybersecurity
+
+Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and a Senior Technical Artist in the mobile game industry and a student of cybersecurity. My background combines structured security discipline with years of experience building technical systems, pipelines, and tools in production environments.
+
+My cybersecurity interests center around network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure network environments are designed, monitored, and maintained.
 
 ---
 
