@@ -6,14 +6,18 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior
 ---
 
 # Featured Projects
-*These projects represent high-level workflows for building and managing production pipelines and cybersecurity lab environments.
-Detailed documentation is maintained separately in my personal Confluence workspace.*
 
 ## Cybersecurity: 
 <p align="left">
 <img width="100" alt="cyber_logo_01" src="https://github.com/user-attachments/assets/0a7bb8c9-f60b-42f5-b035-b7ac15c84b46" />
 </p>
 
+*These projects represent high-level workflows for building and managing production pipelines and cybersecurity lab environments.
+Detailed documentation is maintained separately in my personal Confluence workspace.*
+
+<p align="left">
+<img width="100" alt="cyber_logo_01" alt="techart_logo_01" src="https://github.com/user-attachments/assets/7ebf0078-39db-41df-ad6f-d354ae6e2e2d" />
+  
 https://github.com/khucker3d/khucker3d/blob/main/cybersecurity_path
 
 ---
