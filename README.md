@@ -3,28 +3,9 @@
 
 Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior Technical Artist in the mobile game industry, and a cybersecurity practitioner. My background combines structured security discipline with years of experience building technical systems, pipelines, tools, and production workflows in real-time environments.
 
-My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained.
-
-My goal is to build practical, well-documented security systems that are effective, scalable, and repeatable. Areas of focus include:
-- Blue team lab environments
-- SIEM pipelines and log analysis workflows using Wazuh and Splunk
-- Detection engineering
-- Endpoint monitoring, security, and hardening
-- Structured, repeatable security workflows
-
-I am actively building hands-on experience through lab development, documentation, and security-focused projects, supported by completion of the Google Cybersecurity Professional Certificate, strengthening both technical depth and operational discipline, including:
-- Active Directory lab environments
-- Splunk and Wazuh log pipelines
-- Detection rules mapped to MITRE ATT&CK
-- Endpoint hardening and monitoring workflows
-
-I have also developed a foundational understanding of hardware security risks, including reducing exposure through secure handling practices, trusted installation methods, and strong system hygiene fundamentals.
-
-My objective is to apply a systems-oriented mindset, disciplined documentation practices, and hands-on security experience toward a long-term career in cybersecurity.
-
 ---
 
-# Featured Projects Projects
+# Featured Projects
 *These projects represent high-level workflows for building and managing production pipelines and cybersecurity lab environments.
 Detailed documentation is maintained separately in my personal Confluence workspace.*
 
