@@ -18,7 +18,7 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior
 - [LinkedIn](https://www.linkedin.com/in/khucker3d/)
 
 ## Resumes:
-- [Cybersecurity Resume](https://github.com/khucker3d/about-me/blob/main/KHucker_Resume_Cybersecurity.pdf)
+- [Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
 - [Tech Art Resume](https://khucker3d.carbonmade.com/about)
 
 
