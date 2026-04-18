@@ -42,4 +42,3 @@ I am actively building hands-on experience through lab development, documentatio
 
 ## Resumes:
 - [Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
-- [Tech Art Resume](https://khucker3d.carbonmade.com/about)
