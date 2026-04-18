@@ -1,12 +1,10 @@
 # My Cybersecurity Path
 
----
+My interest in cybersecurity began with hands-on experience building and repairing PC hardware, and diagnosing, preventing, and removing computer malware using antivirus tools during college. That early exposure to system security, endpoint protection, and troubleshooting laid the foundation for my long-term interest in protecting and maintaining secure computing environments.
 
 My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained. 
 
 I have also developed a foundational understanding of hardware security risks, including reducing exposure through secure handling practices, trusted installation methods, and strong system hygiene.
-
-My interest in cybersecurity began with hands-on experience building and repairing PC hardware, and diagnosing, preventing, and removing computer malware using antivirus tools during college. That early exposure to system security, endpoint protection, and troubleshooting helped form the foundation of my long-term interest in protecting and maintaining secure computing environments.
 
 My objective is to apply a systems-oriented mindset, disciplined documentation practices, and hands-on security experience to build a long-term career in cybersecurity, contributing to secure, well-structured, and resilient environments.
 
@@ -22,8 +20,6 @@ I am actively building hands-on experience through lab development, documentatio
 - Splunk and Wazuh log pipelines
 - Detection rules mapped to MITRE ATT&CK
 - Endpoint hardening and monitoring workflows
-
----
 
 ## High-level Workflows:
 *Note: Detailed documentation is maintained separately in my personal Confluence workspace.*
