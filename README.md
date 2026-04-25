@@ -1,5 +1,4 @@
 # Kellie Hucker
-### Senior Technical Artist | Cybersecurity Practitioner
 
 Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior Technical Artist in the mobile game industry, and a cybersecurity practitioner. My background combines structured security discipline with years of experience building technical systems, pipelines, tools, and production workflows in real-time environments.
 
