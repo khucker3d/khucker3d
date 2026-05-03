@@ -4,7 +4,7 @@ My interest in cybersecurity began with hands-on experience building and repairi
 
 My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained. 
 
-## Projects:
+## Projects
 ### Detection & Monitoring
 *Note: For my Home Lab setup projects, I have detailed documentation that is maintained separately in my personal Confluence workspace.*
 - [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md): SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
@@ -12,7 +12,7 @@ My cybersecurity interests center on network security and network engineering, w
 
 ### Infrastructure & Hardening
 - [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md): Established secure device disposal process aligned with data protection best practices and lifecycle security controls
-- [BitLocker Encryption:](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Full-disk encryption to protect sensitive data
+- [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Full-disk encryption to protect sensitive data
 - [Secure File Locker](https://github.com/khucker3d/secure-file-locker-gui): Encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
 
 ### Authentication + Credential Hygiene
