@@ -26,4 +26,4 @@ My cybersecurity interests center on network security and network engineering, w
 ### File & Data Security
 * [Secure File Locker](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
   
-* [StegoVault: PNG Steganography Tool](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/edit/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
+* [StegoVault: PNG Steganography Tool](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
