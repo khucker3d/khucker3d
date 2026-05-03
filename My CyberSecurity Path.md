@@ -42,12 +42,3 @@ I am actively building hands-on experience through lab development, documentatio
 ### Authentication + Credential Hygiene
 - [Secure Password Generator](https://github.com/khucker3d/cyber-secure-password-generator)
   - A Python desktop GUI tool for generating secure passwords and readable passphrases using cryptographically secure randomness.
- 
-    
-
-
-## Contact:
-- [LinkedIn](https://www.linkedin.com/in/khucker3d/)
-
-## Resumes:
-- [Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
