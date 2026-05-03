@@ -36,10 +36,15 @@ I am actively building hands-on experience through lab development, documentatio
   - Established a secure device disposal process aligned with data protection best practices and lifecycle security controls
 - [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md)
   - Applied full-disk encryption to protect sensitive data at rest and strengthen endpoint security posture
+- [Secure File Locker:](https://github.com/khucker3d/secure-file-locker-gui)
+  - A local file encryption tool that secures data at rest using AES-GCM and PBKDF2 with password-based protection and integrity validation.
 
 ### Authentication + Credential Hygiene
 - [Secure Password Generator](https://github.com/khucker3d/cyber-secure-password-generator)
   - A Python desktop GUI tool for generating secure passwords and readable passphrases using cryptographically secure randomness.
+ 
+    
+
 
 ## Contact:
 - [LinkedIn](https://www.linkedin.com/in/khucker3d/)
