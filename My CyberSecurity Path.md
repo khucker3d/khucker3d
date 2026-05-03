@@ -7,13 +7,23 @@ My cybersecurity interests center on network security and network engineering, w
 ## Projects
 ### Detection & Monitoring
 *Note: For my Home Lab setup projects, I have detailed documentation that is maintained separately in my personal Confluence workspace.*
-- [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md): SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
-- [Wazuh SIEM Home Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md): Endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
+* [Blue Team Homelab Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Blue%20Team%20Cybersecurity%20Home%20Lab%20Setup.md): 
+  SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
+* [Wazuh SIEM Home Setup](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md):
+  Endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
 
 ### Infrastructure & Hardening
-- [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md): Established secure device disposal process aligned with data protection best practices and lifecycle security controls
-- [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Full-disk encryption to protect sensitive data
-- [Secure File Locker](https://github.com/khucker3d/secure-file-locker-gui): Encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
+* [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md):
+  Established secure device disposal process aligned with data protection best practices and lifecycle security controls
+* [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md):
+  Full-disk encryption to protect sensitive data
 
 ### Authentication + Credential Hygiene
-- [Secure Password Generator](https://github.com/khucker3d/cyber-secure-password-generator): Generating secure passwords and readable passphrases using cryptographically secure randomness.
+* [Secure Password Generator](https://github.com/khucker3d/cyber-secure-password-generator):
+  Generating secure passwords and readable passphrases using cryptographically secure randomness.
+
+### File & Data Security
+* [Secure File Locker](https://github.com/khucker3d/secure-file-locker-gui):
+  An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
+* [Stegano-Vault](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/edit/main/README.md):
+  A tool that securely hides encrypted messages inside PNG images using LSB steganography.
