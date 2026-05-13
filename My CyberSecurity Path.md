@@ -21,7 +21,7 @@ My cybersecurity interests center on network security and network engineering, w
 * [BitLocker Encryption](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Full-disk encryption to protect sensitive data
 
 ### Authentication + Credential Hygiene
-* [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): Generating secure passwords and readable passphrases using cryptographically secure randomness.
+* [Secure Password Generator (Python)](NEED TO ADD PROJECT): Generating secure passwords and readable passphrases using cryptographically secure randomness.
 
 ### File & Data Security
 * [Secure File Locker (Python)](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
