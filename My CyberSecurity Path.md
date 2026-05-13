@@ -26,4 +26,7 @@ My cybersecurity interests center on network security and network engineering, w
 ### File & Data Security
 * [Secure File Locker (Python)](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
   
-* [StegoVault: PNG Steganography Tool (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
+* [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
+
+* [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator/blob/main/README.md): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
+  
