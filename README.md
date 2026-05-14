@@ -27,4 +27,5 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior
 * *Pursuing: Computer Networking and Information Technology- Cybersecurity, Fall 2026*
 
 ### Other:
-•	U.S. Army – Military Police: Basic and Advanced Individual Training
+* U.S. Army – Military Police: Basic and Advanced Individual Training
+
