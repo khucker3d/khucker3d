@@ -14,7 +14,7 @@ My cybersecurity interests center on network security and network engineering, w
 * [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/tree/main): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
 
 ### Infrastructure & Hardening
-* [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md): Established secure device disposal process aligned with data protection best practices and lifecycle security controls
+* [Secure Device Decommissioning](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/Secure%20Device%20Decommission.md): Established secure device disposal process aligned with data protection best practices and lifecycle security controls
   
 * [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
 
@@ -26,4 +26,4 @@ My cybersecurity interests center on network security and network engineering, w
   
 * [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
 
-* [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator/blob/main/README.md): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
+* [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
