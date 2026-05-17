@@ -17,7 +17,7 @@ Today, my cybersecurity interests focus on network security and network engineer
 * [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
 
 ### Authentication + Credential Hygiene
-* [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): Generating secure passwords and readable passphrases using cryptographically secure randomness.
+* [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): A tool for generating secure passwords using cryptographically secure randomness.
 
 ### File & Data Security
 * [Secure File Locker (Python)](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
