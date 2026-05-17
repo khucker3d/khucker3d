@@ -7,10 +7,8 @@ My cybersecurity interests center on network security and network engineering, w
 ## Projects
 *Note: For my Home Lab setup projects, I have detailed documentation that is maintained separately in my personal Confluence workspace.*
 
-### Home Lab Setup
+### Cybersecurity Labs:
 * [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): SOC-style lab environment using Splunk and Wazuh to simulate real-world log ingestion and security monitoring workflows
-  
-* [Home Lab](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Wazuh%20SIEM%20Home%20Lab%20Setup.md): Endpoint monitoring and alerting with Wazuh, enabling visibility into system activity and security events
 
 ### Detection & Monitoring 
 * [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/tree/main): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
