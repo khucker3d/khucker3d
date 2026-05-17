@@ -1,8 +1,8 @@
 # My Cybersecurity Projects
 
-My interest in cybersecurity began with hands-on experience building and repairing PC hardware, and diagnosing, preventing, and removing computer malware using antivirus tools during college. That early exposure to system security, endpoint protection, and troubleshooting laid the foundation for my long-term interest in protecting and maintaining secure computing environments.
+My interest in cybersecurity began with hands-on experience building and repairing PC hardware, along with diagnosing, preventing, and removing malware using antivirus and system recovery tools during college. That early exposure to troubleshooting, endpoint protection, and system security sparked a long-term interest in understanding how secure computing environments are built, maintained, and protected.
 
-My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained. 
+Today, my cybersecurity interests focus on network security and network engineering, with a growing emphasis on blue team operations, detection engineering, and GRC. I’m particularly interested in how systems communicate, how threats are identified through logs and telemetry, and how organizations design secure, resilient, and well-governed environments. My background in technical art, tooling, automation, and cross-disciplinary problem solving has also strengthened my interest in security workflows that combine technical analysis, operational structure, and continuous improvement.
 
 ## Projects
 ### Cybersecurity Labs:
