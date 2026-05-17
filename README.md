@@ -3,7 +3,7 @@
 Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior Technical Artist in the mobile game industry, and a Cybersecurity practitioner. My background combines structured security discipline with years of experience building technical systems, pipelines, tools, and production workflows in real-time environments.
 
 ## Featured Projects:
-* [Cybersecurity](https://github.com/khucker3d/khucker3d/blob/main/My%20CyberSecurity%20Path.md)
+* [Cybersecurity](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md)
 * [Technical Artist](https://khucker3d.carbonmade.com/)
 
 ## Contact:
