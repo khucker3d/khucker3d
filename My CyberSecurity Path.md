@@ -16,7 +16,7 @@ My cybersecurity interests center on network security and network engineering, w
 ### Infrastructure & Hardening
 * [Secure Device Decommissioning](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Secure%20Device%20Decommissioning.md): Established secure device disposal process aligned with data protection best practices and lifecycle security controls
   
-* [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Full-disk encryption to protect sensitive data
+* [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
 
 ### Authentication + Credential Hygiene
 * [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): Generating secure passwords and readable passphrases using cryptographically secure randomness.
