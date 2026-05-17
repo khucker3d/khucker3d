@@ -5,8 +5,6 @@ My interest in cybersecurity began with hands-on experience building and repairi
 My cybersecurity interests center on network security and network engineering, with a growing focus on blue team defense, detection engineering, and GRC. I am particularly interested in understanding how data moves through systems, how threats are identified through logs and telemetry, and how secure environments are designed, monitored, and maintained. 
 
 ## Projects
-*Note: For my Home Lab setup projects, I have detailed documentation that is maintained separately in my personal Confluence workspace.*
-
 ### Cybersecurity Labs:
 * [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home labs environment for blue team training, log analysis, threat detection, and security monitoring.
 
