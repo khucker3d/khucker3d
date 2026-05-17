@@ -1,4 +1,4 @@
-# My Cybersecurity Path
+# My Cybersecurity Projects
 
 My interest in cybersecurity began with hands-on experience building and repairing PC hardware, and diagnosing, preventing, and removing computer malware using antivirus tools during college. That early exposure to system security, endpoint protection, and troubleshooting laid the foundation for my long-term interest in protecting and maintaining secure computing environments.
 
