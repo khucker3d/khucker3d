@@ -42,7 +42,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 ## Cybersecurity Education:
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *March 2026*
   - Focus: Blue team defensive security, Security monitoring, Threat detection, Risk management, Security operations, Networking fundamentals, Linux administration, SIEM workflows, Security analysis, Python automation fundamentals
-- [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *In Progress - June 2026*
+- Google IT Support Profession Certificate, *In Progress - June 2026*
   - Focus: IT support fundamentals, Desktop and system troubleshooting, Hardware diagnostics, Networking basics, Linux fundamentals, Technical documentation, Customer support communication, Help desk operations, and Technical service workflows
 - (Future BS degree plan) Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026
 
@@ -51,9 +51,9 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 * U.S. Army – Military Police: Basic and Advanced Individual Training
 
 ## Contact:
-- **LinkedIn:* www.linkedin.com/in/khucker3d
-- *Email:* khucker3d@gmail.com
+- LinkedIn: www.linkedin.com/in/khucker3d
+- Email: khucker3d@gmail.com
 
 ## Resumes:
 - [Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
-- [Technical Artist Resume](https://khucker3d.carbonmade.com/about)
+- [Technical Background Resume](https://khucker3d.carbonmade.com/about)
