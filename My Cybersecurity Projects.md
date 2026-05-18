@@ -40,8 +40,8 @@ Today, my cybersecurity interests focus on network security and network engineer
 ## Education:
 * [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577)
 * [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577) In Progress
-* *Pursuing: Computer Networking and Information Technology- Cybersecurity, Fall 2026*
+* *Pursuing: Computer Networking and Information Technology- Cybersecurity*
 
 ### Other:
-The Art Institute of California – San Francisco: B.S. Media Arts & Animation
-U.S. Army – Military Police: Basic and Advanced Individual Training
+* The Art Institute of California – San Francisco: B.S. Media Arts & Animation
+* U.S. Army – Military Police: Basic and Advanced Individual Training
