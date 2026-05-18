@@ -15,17 +15,17 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior
 * [Technical Artist Resume](https://khucker3d.carbonmade.com/about)
 
 ## Education:
+### Cybersecurity:
+* [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *March 2026*
+  * Focus: Blue team defensive security, Security monitoring, Threat detection, Risk management, Security operations, Networking fundamentals, Linux administration, SIEM workflows, Security analysis, Python automation fundamentals
+* [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *In Progress - June 2026*
+  * Focus: IT support fundamentals, Desktop and system troubleshooting, Hardware diagnostics, Networking basics, Linux fundamentals, Technical documentation, Customer support communication, Help desk operations, and Technical service workflows
+ 
 ### Technical Artist: 
 * The Art Institute of California – San Francisco: B.S. Media Arts & Animation
   * Focus: 3D Modeling, Texturing & Animation
 * Udemy Certifications: Tech Art: Unity, Unreal, Maya
   * Focus: UI, Shaders/Materials, Particle Systems, Editor Tools & Optimization
 
-### Cybersecurity:
-* [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577)
-* [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577) In Progress
-* *Pursuing: Computer Networking and Information Technology- Cybersecurity*
-
 ### Other:
 * U.S. Army – Military Police: Basic and Advanced Individual Training
-
