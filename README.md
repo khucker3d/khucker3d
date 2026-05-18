@@ -11,14 +11,6 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Authentication + Credential Hygiene
 - File & Data Security
 
-## Technical Foundations
-- PC building and hardware repair
-- Operating system installation and upgrades
-- Malware removal and endpoint troubleshooting
-- Home network setup and configuration
-- Software and hardware diagnostics
-- Automation and scripting
-
 ## Current Cybersecurity Focus:
 - Blue Team Security
 - GRC
@@ -26,6 +18,14 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Python Security Tooling
 - Home Lab Development
 - SIEM / Log Analysis
+
+## Technical Foundations
+- PC building and hardware repair
+- Operating system installation and upgrades
+- Malware removal and endpoint troubleshooting
+- Home network setup and configuration
+- Software and hardware diagnostics
+- Automation and scripting
 
 ## Cybersecurity Technical Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
