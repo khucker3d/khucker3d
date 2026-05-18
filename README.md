@@ -26,7 +26,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - **Concepts & Practices:** SIEM fundamentals, log ingestion and analysis, alert validation, MITRE ATT&CK awareness, basic system hardening, access control concepts, vulnerability awareness, Jira
 - **Core Strengths:** Investigative mindset, problem-solving, detailed documentation, clear and concise communication, cross-functional collaboration, live user support, adaptability, operational discipline, calm under pressure
 
-## Technical Background:
+### Technical Background:
 **Before transitioning into cybersecurity, I spent over a decade in [Technical Artist roles](https://khucker3d.carbonmade.com/) focused on:**
 - Systems integration
 - Tool development and automation
