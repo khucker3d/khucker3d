@@ -4,13 +4,6 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and Senio
 
 Throughout my career, I gravitated toward systems thinking, troubleshooting, automation, and operational problem-solving, which naturally led me toward cybersecurity and defensive security practices.
 
-## Cybersecurity Projects:
-- [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
-- [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
-- [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
-- [Authentication & Credential Hygiene:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#authentication--credential-hygiene)
-- [File & Data Security:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#file--data-security)
-
 ## Cybersecurity Focus:
 - Blue Team Security
 - GRC
@@ -19,13 +12,12 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Home Lab Development
 - SIEM / Log Analysis
 
-## Technical Foundations
-- PC building and hardware repair
-- Operating system installation and upgrades
-- Malware removal and endpoint troubleshooting
-- Home network setup and configuration
-- Software and hardware diagnostics
-- Automation and scripting
+## Cybersecurity Projects:
+- [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
+- [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
+- [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
+- [Authentication & Credential Hygiene:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#authentication--credential-hygiene)
+- [File & Data Security:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#file--data-security)
 
 ## Cybersecurity Technical Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
@@ -34,14 +26,18 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - **Concepts & Practices:** SIEM fundamentals, log ingestion and analysis, alert validation, MITRE ATT&CK awareness, basic system hardening, access control concepts, vulnerability awareness, Jira
 - **Core Strengths:** Investigative mindset, problem-solving, detailed documentation, clear and concise communication, cross-functional collaboration, live user support, adaptability, operational discipline, calm under pressure
 
-## [Technical Background](https://khucker3d.carbonmade.com/)
+## [Technical Background:](https://khucker3d.carbonmade.com/)
 **Before transitioning into cybersecurity, I spent over a decade in Technical Art roles focused on:**
 - Systems integration
-- Tooling
-- Optimization
-- Automation
-- Cross-functional support
-- Production infrastructure
+- Tool development and automation
+- Workflow optimization
+- Cross-functional production support
+- Production infrastructure and pipeline support
+- PC building and hardware repair
+- Operating system installation and upgrades
+- Malware detection, removal, and endpoint troubleshooting
+- Home network setup and configuration
+- Hardware and software diagnostics
 
 ## Cybersecurity Education:
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *March 2026*
@@ -49,7 +45,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *In Progress - June 2026*
   - Focus: IT support fundamentals, Desktop and system troubleshooting, Hardware diagnostics, Networking basics, Linux fundamentals, Technical documentation, Customer support communication, Help desk operations, and Technical service workflows
 - Future degree plan: Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026
- 
+
 ### Related Education:
 * The Art Institute of California – San Francisco: B.S. Media Arts & Animation
 * U.S. Army – Military Police: Basic and Advanced Individual Training
