@@ -24,7 +24,7 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran, a Senior
 ### Cybersecurity:
 * [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577)
 * [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577) In Progress
-* *Pursuing: Computer Networking and Information Technology- Cybersecurity, Fall 2026*
+* *Pursuing: Computer Networking and Information Technology- Cybersecurity*
 
 ### Other:
 * U.S. Army – Military Police: Basic and Advanced Individual Training
