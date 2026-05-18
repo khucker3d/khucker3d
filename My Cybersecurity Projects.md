@@ -4,6 +4,8 @@ My interest in cybersecurity began with hands-on experience building and repairi
 
 Today, my cybersecurity interests focus on network security and network engineering, with a growing emphasis on blue team operations, detection engineering, and GRC. I’m particularly interested in how systems communicate, how threats are identified through logs and telemetry, and how organizations design secure, resilient, and well-governed environments. My background in technical art, tooling, automation, and cross-disciplinary problem solving has also strengthened my interest in security workflows that combine technical analysis, operational structure, and continuous improvement.
 
+---
+
 ## Projects
 ### Cybersecurity Labs:
 * [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
@@ -25,3 +27,21 @@ Today, my cybersecurity interests focus on network security and network engineer
 * [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
 
 * [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
+
+---
+
+## Contact:
+* LinkedIn: www.linkedin.com/in/khucker3d
+* Email: khucker3d@gmail.com
+
+## Resume:
+[Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
+
+## Education:
+* [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577)
+* [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577) In Progress
+* *Pursuing: Computer Networking and Information Technology- Cybersecurity, Fall 2026*
+
+### Other:
+The Art Institute of California – San Francisco: B.S. Media Arts & Animation
+U.S. Army – Military Police: Basic and Advanced Individual Training
