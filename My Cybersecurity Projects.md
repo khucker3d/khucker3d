@@ -1,47 +1,19 @@
 # My Cybersecurity Projects
 
-My interest in cybersecurity began with hands-on experience building and repairing PC hardware, along with diagnosing, preventing, and removing malware using antivirus and system recovery tools during college. That early exposure to troubleshooting, endpoint protection, and system security sparked a long-term interest in understanding how secure computing environments are built, maintained, and protected.
+## Cybersecurity Labs:
+- [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
 
-Today, my cybersecurity interests focus on network security and network engineering, with a growing emphasis on blue team operations, detection engineering, and GRC. I’m particularly interested in how systems communicate, how threats are identified through logs and telemetry, and how organizations design secure, resilient, and well-governed environments. My background in technical art, tooling, automation, and cross-disciplinary problem solving has also strengthened my interest in security workflows that combine technical analysis, operational structure, and continuous improvement.
+## Detection & Monitoring:
+- [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/tree/main): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
 
----
+## Infrastructure & Hardening:
+- [Secure Device Decommissioning](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/Secure%20Device%20Decommission.md): Established secure device recycling process aligned with data protection best practices and lifecycle security controls
+- [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
 
-## Projects
-### Cybersecurity Labs:
-* [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
+## Authentication + Credential Hygiene:
+- [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): A tool for generating secure passwords using cryptographically secure randomness.
 
-### Detection & Monitoring 
-* [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/tree/main): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
-
-### Infrastructure & Hardening
-* [Secure Device Decommissioning](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/Secure%20Device%20Decommission.md): Established secure device recycling process aligned with data protection best practices and lifecycle security controls
-  
-* [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
-
-### Authentication + Credential Hygiene
-* [Secure Password Generator (Python)](https://github.com/khucker3d/cyber-secure-password-generator): A tool for generating secure passwords using cryptographically secure randomness.
-
-### File & Data Security
-* [Secure File Locker (Python)](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
-  
-* [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
-
-* [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
-
----
-
-## Contact:
-* LinkedIn: www.linkedin.com/in/khucker3d
-* Email: khucker3d@gmail.com
-
-## Resume:
-[Cybersecurity Resume](https://github.com/khucker3d/khucker3d/blob/main/KHucker_Resume_Cybersecurity.pdf)
-
-## Education:
-* [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577)
-* [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577) In Progress
-* *Pursuing: Computer Networking and Information Technology- Cybersecurity*
-
-### Other:
-* The Art Institute of California – San Francisco: B.S. Media Arts & Animation
-* U.S. Army – Military Police: Basic and Advanced Individual Training
+## File & Data Security:
+- [Secure File Locker (Python)](https://github.com/khucker3d/secure-file-locker-gui): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
+- [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
+- [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
