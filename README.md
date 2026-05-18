@@ -4,7 +4,7 @@ Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and Senio
 
 Throughout my career, I gravitated toward systems thinking, troubleshooting, automation, and operational problem-solving, which naturally led me toward cybersecurity and defensive security practices.
 
-## Cybersecurity Focus:
+## Focus:
 - Blue Team Security
 - GRC
 - Detection Engineering
@@ -12,22 +12,22 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Home Lab Development
 - SIEM / Log Analysis
 
-## Cybersecurity Projects:
+## Projects:
 - [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
 - [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
 - [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
 - [Authentication & Credential Hygiene:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#authentication--credential-hygiene)
 - [File & Data Security:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#file--data-security)
 
-## Cybersecurity Technical Skills:
+## Technical & Bussines Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
 - **Operating Systems:** Windows, macOS, Linux (Ubuntu, Kali), iOS, Android
 - **Tools:** Wazuh, OpenSearch, Docker, VMWare, VirtualBox, VPNs, Endpoint Protection, ChatGPT, Claude, Gemini
 - **Concepts & Practices:** SIEM fundamentals, log ingestion and analysis, alert validation, MITRE ATT&CK awareness, basic system hardening, access control concepts, vulnerability awareness, Jira
 - **Core Strengths:** Investigative mindset, problem-solving, detailed documentation, clear and concise communication, cross-functional collaboration, live user support, adaptability, operational discipline, calm under pressure
 
-## [Technical Background:](https://khucker3d.carbonmade.com/)
-**Before transitioning into cybersecurity, I spent over a decade in Technical Art roles focused on:**
+## Technical Background:
+**Before transitioning into cybersecurity, I spent over a decade in [Technical Artist roles](https://khucker3d.carbonmade.com/) focused on:**
 - Systems integration
 - Tool development and automation
 - Workflow optimization
@@ -44,7 +44,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
   - Focus: Blue team defensive security, Security monitoring, Threat detection, Risk management, Security operations, Networking fundamentals, Linux administration, SIEM workflows, Security analysis, Python automation fundamentals
 - [Google IT Support Profession Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *In Progress - June 2026*
   - Focus: IT support fundamentals, Desktop and system troubleshooting, Hardware diagnostics, Networking basics, Linux fundamentals, Technical documentation, Customer support communication, Help desk operations, and Technical service workflows
-- Future degree plan: Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026
+- (Future BS degree plan) Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026
 
 ### Related Education:
 * The Art Institute of California – San Francisco: B.S. Media Arts & Animation
