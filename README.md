@@ -1,8 +1,15 @@
 # About Me: Kellie Hucker | khucker3d
 
-Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and Senior Technical Artist transitioning into cybersecurity. My background combines structured security discipline with years of experience building tools, pipelines, automation systems, and production workflows in real-time environments. Throughout my career, I gravitated toward systems thinking, troubleshooting, automation, and operational problem-solving, which naturally led me toward cybersecurity and defensive security practices.
+Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and Senior Technical Artist transitioning into cybersecurity. My background combines structured security discipline with years of experience building tools, pipelines, automation systems, and production workflows in real-time environments.
 
-My interest in technology and cybersecurity started early through hands-on experience building and repairing PCs, troubleshooting hardware and software issues, removing malware, configuring home networks, upgrading operating systems, and maintaining personal systems. Those experiences developed my curiosity around how systems operate, fail, and can be secured.
+Throughout my career, I gravitated toward systems thinking, troubleshooting, automation, and operational problem-solving, which naturally led me toward cybersecurity and defensive security practices.
+
+## [Cybersecurity Projects:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md)
+- Cybersecurity Labs
+- Detection & Monitoring
+- Infrastructure & Hardening
+- Authentication + Credential Hygiene
+- File & Data Security
 
 ## Technical Foundations
 - PC building and hardware repair
@@ -19,13 +26,6 @@ My interest in technology and cybersecurity started early through hands-on exper
 - Python Security Tooling
 - Home Lab Development
 - SIEM / Log Analysis
-
-## [Cybersecurity Projects:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md)
-- Cybersecurity Labs
-- Detection & Monitoring
-- Infrastructure & Hardening
-- Authentication + Credential Hygiene
-- File & Data Security
 
 ## Cybersecurity Technical Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
