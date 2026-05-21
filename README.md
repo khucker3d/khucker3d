@@ -44,7 +44,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
   - Focus: Blue team defensive security, Security monitoring, Threat detection, Risk management, Security operations, Networking fundamentals, Linux administration, SIEM workflows, Security analysis, Python automation fundamentals
 - Google IT Support Profession Certificate, *In Progress - June 2026*
   - Focus: IT support fundamentals, Desktop and system troubleshooting, Hardware diagnostics, Networking basics, Linux fundamentals, Technical documentation, Customer support communication, Help desk operations, and Technical service workflows
-- (Future BS degree plan) Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026
+- _(Future BS degree plan) Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026_
 
 ### Related Education:
 * The Art Institute of California – San Francisco: B.S. Media Arts & Animation
