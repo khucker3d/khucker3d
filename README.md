@@ -6,7 +6,6 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 
 ## Focus:
 - Blue Team Security
-- GRC
 - Detection Engineering
 - Python Security Tooling
 - Home Lab Development
