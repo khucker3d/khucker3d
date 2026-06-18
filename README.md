@@ -1,4 +1,4 @@
-![Repository Banner](BannerLogo.png)
+![assets/BannerLogo.png](https://github.com/khucker3d/assets/blob/main/BannerLogo.png)
 
 # About Me: Kellie Hucker | khucker3d
 
