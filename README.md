@@ -1,6 +1,6 @@
 ![assets/BannerLogo.png](https://github.com/khucker3d/assets/blob/main/BannerLogo.png)
 
-# About Me: Kellie Hucker | khucker3d
+# About Me:
 
 Hi, my name is Kellie Hucker. I am a U.S. Army Military Police veteran and Senior Technical Artist transitioning into cybersecurity. My background combines structured security discipline with years of experience building tools, pipelines, automation systems, and production workflows in real-time environments.
 
