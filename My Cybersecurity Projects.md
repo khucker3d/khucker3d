@@ -6,6 +6,9 @@
 ## Detection & Monitoring:
 - [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/blob/main/README.md): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
 
+- [File Integrity Monitor V1 (Python)](https://github.com/khucker3d/cyber-file-integrity-monitor/blob/main/README.md):
+A Python GUI-based File Integrity Monitor for detecting, reviewing, and responding to file changes.
+
 ## Infrastructure & Hardening:
 - [Secure Device Decommissioning](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/Secure%20Device%20Decommission.md): Established secure device recycling process aligned with data protection best practices and lifecycle security controls
 - [Full Drive BitLocker Encryption (Windows 11 Pro)](https://github.com/khucker3d/khucker-cyber-homelab-setup/blob/main/Full%20Drive%20BitLocker%20Encryption.md): Enabling full disk encryption to protect data, to ensure sensitive data remains protected if a device is lost, stolen, or accessed outside of a trusted boot environment.
