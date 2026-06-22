@@ -1,4 +1,4 @@
-# My Cybersecurity Projects
+# My Cybersecurity Prototype Projects
 
 ## Cybersecurity Labs:
 - [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
