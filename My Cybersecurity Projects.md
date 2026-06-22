@@ -6,7 +6,7 @@
 ## Detection & Monitoring:
 - [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/blob/main/README.md): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
 
-- [(WIP) File Integrity Monitor V1 (Python)](https://github.com/khucker3d/cyber-file-integrity-monitor/blob/main/README.md):
+- [File Integrity Monitor (Python)](https://github.com/khucker3d/cyber-file-integrity-monitor/blob/main/README.md):
 A Python GUI-based File Integrity Monitor for detecting, reviewing, and responding to file changes.
 
 ## Infrastructure & Hardening:
