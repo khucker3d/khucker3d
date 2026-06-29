@@ -1,5 +1,8 @@
 # My Cybersecurity Prototype Projects
 
+## Home Network:
+- [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-enterprise-home-infrastructure/blob/main/README.md): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
+
 ## Cybersecurity Labs:
 - [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
 
