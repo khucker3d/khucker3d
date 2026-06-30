@@ -14,6 +14,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - SIEM / Log Analysis
 
 ## Projects:
+- [Enterprise-Inspired Home Network](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
 - [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
 - [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
 - [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
