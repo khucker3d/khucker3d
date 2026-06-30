@@ -14,7 +14,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - SIEM / Log Analysis
 
 ## Projects:
-*Documentation Scope: This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
+**Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
 
 - [Enterprise-Inspired Home Network:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
 - Coming Soon: Network Shared Drive
