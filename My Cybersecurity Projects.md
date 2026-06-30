@@ -1,5 +1,7 @@
 # My Cybersecurity Prototype Projects
 
+**Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
+
 ## Home Network:
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/enterprise-infrastructure-architecture-public/blob/main/README.md): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
 - Coming Soon: Network Shared Drive
