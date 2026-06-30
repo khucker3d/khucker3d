@@ -15,8 +15,8 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 
 ## Projects:
 - [Enterprise-Inspired Home Network:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
-- [Coming Soon: Network Shared Drive]()
-- [Coming Soon: Cloud Storage]()
+- Coming Soon: Network Shared Drive
+- Coming Soon: Cloud Storage
 - [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
 - [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
 - [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
