@@ -5,6 +5,7 @@
 ## Home Network:
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/enterprise-infrastructure-architecture-public/blob/main/README.md): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
 - [Rasberry Pi Network Utility Server:](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/README.md)
+ A lightweight, reliable, and maintainable infrastructure services without exposing sensitive internal details publicly.
   - Rasberry Pi 5 
     - SSH Administration
     - Pi-hole Ad Blocker
