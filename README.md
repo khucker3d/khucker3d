@@ -17,7 +17,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 **Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
 
 - [Enterprise-Inspired Home Network:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
-- [Rasberry Pi Network Utility Server:](https://github.com/khucker3d/raspberry-pi-network-utility-server-public/blob/main/README.md)
+- [Rasberry Pi Network Utility Server:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
 - Coming Soon: Cloud Storage
 - [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
 - [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
