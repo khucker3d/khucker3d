@@ -13,17 +13,15 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Home Lab Development
 - SIEM / Log Analysis
 
-## Projects:
+## [Projects:](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md)
 **Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.
 
-- [Enterprise-Inspired Home Network:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
-- [Rasberry Pi Network Utility Server:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#home-network)
-- Coming Soon: Cloud Storage
-- [Cybersecurity Labs:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#cybersecurity-labs)
-- [Detection & Monitoring:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#detection--monitoring)
-- [Infrastructure & Hardening:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#infrastructure--hardening)
-- [Authentication & Credential Hygiene:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#authentication--credential-hygiene)
-- [File & Data Security:](https://github.com/khucker3d/khucker3d/blob/main/My%20Cybersecurity%20Projects.md#file--data-security)
+- Enterprise-Inspired Home Network
+- Rasberry Pi Network Utility Server
+- Cybersecurity Labs
+- Detection & Monitoring
+- Authentication & Credential Hygiene
+- File & Data Security
 
 ## Technical & Bussines Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
