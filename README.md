@@ -14,7 +14,7 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - SIEM / Log Analysis
 
 ## Projects
-**Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.
+***Documentation Scope:** These public repositories contain a high-level, sanitized overview of my projects. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational reports. Sensitive environment-specific details have been intentionally excluded for security reasons.*
 
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#home-network)
 - [Cybersecurity Labs](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#cybersecurity-labs)
@@ -31,7 +31,9 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - **Core Strengths:** Investigative mindset, problem-solving, detailed documentation, clear and concise communication, cross-functional collaboration, live user support, adaptability, operational discipline, calm under pressure
 
 ### Technical Background:
-**Before transitioning into cybersecurity, I spent over a decade in [Technical Artist roles](https://khucker3d.carbonmade.com/) focused on:**
+*Before transitioning into cybersecurity, I spent over a decade in [Technical Artist roles](https://khucker3d.carbonmade.com/).*
+
+**Focus: Mobile game asset infrastructure:**
 - Systems integration
 - Tool development and automation
 - Workflow optimization
