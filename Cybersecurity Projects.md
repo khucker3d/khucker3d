@@ -7,6 +7,8 @@
   
 - [Rasberry Pi Network Utility Server](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/README.md): A lightweight, reliable, and maintainable infrastructure services without exposing sensitive internal details publicly.
 
+- [Home Network Hardware Heat Advisory Alert](https://github.com/khucker3d/home-network-hardware-heat-advisory-alert/blob/main/README.md): A practical infrastructure monitoring workflow using Netdata, Docker, Raspberry Pi hardware telemetry, and Discord-based alerting.
+
 ## Cybersecurity Labs:
 - [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
 
