@@ -37,11 +37,6 @@ Throughout my career, I gravitated toward systems thinking, troubleshooting, aut
 - Workflow optimization
 - Cross-functional production support
 - Production infrastructure and pipeline support
-- PC building and hardware repair
-- Operating system installation and upgrades
-- Malware detection, removal, and endpoint troubleshooting
-- Home network setup and configuration
-- Hardware and software diagnostics
 
 ## Cybersecurity Education:
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *March 2026*
