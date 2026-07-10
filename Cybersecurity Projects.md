@@ -10,7 +10,7 @@
 - [Home Network Hardware Heat Advisory Alert](https://github.com/khucker3d/home-network-hardware-heat-advisory-alert/edit/main/ReadMe.md): A practical infrastructure monitoring workflow using Netdata, Docker, Raspberry Pi hardware telemetry, and Discord-based alerting.
 
 ## Cybersecurity Labs:
-- [Cybersecurity Home Labs](https://github.com/khucker3d/cyber-homelab-project-overview/blob/main/README.md): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
+- WIP [Blue Team Detection Cyber Lab](https://github.com/khucker3d/cyber-blue-team-detection-cyber-lab): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
 
 ## Detection & Monitoring:
 - [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/blob/main/README.md): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
