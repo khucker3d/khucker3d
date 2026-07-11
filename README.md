@@ -25,7 +25,7 @@ The goal is not only to present finished results, but also to show how I approac
 ***Documentation Scope:** These public repositories contain a high-level, sanitized overview of my projects. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational reports. Sensitive environment-specific details have been intentionally excluded for security reasons.*
 
 - [Infrastructure & Hardening](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#infrastructure)
-- [Cyber Labs](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#cybersecurity-labs)
+- [Cyber Labs](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#cyber-labs)
 - [Detection & Monitoring](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#detection--monitoring)
 - [Infrastructure Hardening](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#infrastructure--hardening)
 - [Authentication & Credential Hygiene](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#authentication--credential-hygiene)
