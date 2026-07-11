@@ -53,7 +53,7 @@ The goal is not only to present finished results, but also to show how I approac
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/2759831260359195d8b9cac893454577), *March 2026*
 - [Google IT Support Profession Certificate](https://www.coursera.org/account/accomplishments/specialization/GDWRXWGU18HC), *June 2026*
 - [Google Network Security Certificate](https://www.coursera.org/account/accomplishments/specialization/ZCSA02VKCI5T), *June 2026*
-- _(Future BS degree plan) Computer Networking and Information Technology - Cybersecurity, Enrolling Fall 2026_
+- _(Future BS degree plan) Computer Networking and Information Technology - Cybersecurity_
 
 ### Related Education:
 * The Art Institute of California – San Francisco: B.S. Media Arts & Animation
