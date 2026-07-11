@@ -30,7 +30,7 @@ _**Documentation Scope:** These public repositories contain a high-level, saniti
 - [Authentication & Credential Hygiene](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#authentication--credential-hygiene)
 - [File & Data Security](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#file--data-security)
 
-_**AI-Generated Visuals**: Some diagrams and dashboard mockups in this repository were created with generative AI to support documentation and illustrate the lab design. These images are not screenshots of the live environment. All hostnames, usernames, IP addresses, domains, event data, alert counts, timestamps, and dashboard values shown in these visuals are fictional or sanitized examples intended for educational and portfolio use._
+_**Note:** Documentation diagrams and dashboard mockups were generated with AI using sanitized example data.._
 
 ---
 
