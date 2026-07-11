@@ -5,7 +5,7 @@
 ## Infrastructure & Hardening:
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/infra-enterprise-infrastructure-architecture-public): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
   
-- [Rasberry Pi Network Utility Server](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/README.md): A lightweight, reliable, and maintainable infrastructure services without exposing sensitive internal details publicly.
+- [Rasberry Pi Network Utility Server](https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/README.md): A lightweight, reliable, and maintainable infrastructure services without exposing sensitive internal details publicly.
 
 - [Home Network Hardware Heat Advisory Alert](https://github.com/khucker3d/infra-home-network-hardware-heat-advisory-alert): A practical infrastructure monitoring workflow using Netdata, Docker, Raspberry Pi hardware telemetry, and Discord-based alerting.
 
