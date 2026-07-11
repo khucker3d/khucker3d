@@ -16,7 +16,7 @@
 ---
 
 ## Cyber Labs:
-- WIP [Blue Team Detection Cyber Lab](https://github.com/khucker3d/cyber-blue-team-detection-cyber-lab): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
+- [Blue Team Detection Cyber Lab](https://github.com/khucker3d/cyber-blue-team-detection-cyber-lab): Hands-on cybersecurity home lab environments for blue team training, log analysis, threat detection, and security monitoring.
 
 ---
 
