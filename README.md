@@ -35,7 +35,7 @@ The goal is not only to present finished results, but also to show how I approac
 ## Technical & Bussines Skills:
 - **Scripting Languages:** Python, C++, HTML, JavaScript, PHP, XML
 - **Operating Systems:** Windows, macOS, Linux (Ubuntu, Kali), iOS, Android
-- **Tools:** Wazuh, Docker, VMWare, VirtualBox, VPNs, Endpoint Protection, ChatGPT, Claude, Gemini
+- **Tools:** Wazuh, OpenSearch Docker, VMWare, VirtualBox, VPNs, Endpoint Protection, ChatGPT, Claude, Gemini
 - **Concepts & Practices:** SIEM fundamentals, log ingestion and analysis, alert validation, MITRE ATT&CK awareness, basic system hardening, access control concepts, vulnerability awareness, Jira
 - **Core Strengths:** Investigative mindset, problem-solving, detailed documentation, clear and concise communication, cross-functional collaboration, live user support, adaptability, operational discipline, calm under pressure
 
