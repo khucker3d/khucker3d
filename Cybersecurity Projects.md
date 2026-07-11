@@ -1,6 +1,10 @@
 # Project Directory:
 
-**Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
+**Documentation Scope:** 
+
+This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.*
+
+---
 
 ## Infrastructure & Hardening:
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/infra-enterprise-infrastructure-architecture-public): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
@@ -21,10 +25,9 @@
 ---
 
 ## Detection & Monitoring:
-- [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-ble-scanner/blob/main/README.md): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
+- [Pocket BLE Anomaly Scanner (C++)](https://github.com/khucker3d/cyber-pocket-ble-anomaly-scanner/blob/main/README.md): A portable BLE awareness and anomaly monitoring tool built on the ESP32-S3 using the LILYGO T-Display S3.
 
-- [File Integrity Monitor (Python)](https://github.com/khucker3d/cyber-file-integrity-monitor/blob/main/README.md):
-A Python GUI-based File Integrity Monitor for detecting, reviewing, and responding to file changes.
+- [File Integrity Monitor (Python)](https://github.com/khucker3d/cyber-file-integrity-monitor/blob/main/README.md): A Python GUI-based File Integrity Monitor for detecting, reviewing, and responding to file changes.
 
 ---
 
@@ -35,13 +38,8 @@ A Python GUI-based File Integrity Monitor for detecting, reviewing, and respondi
 
 ## File & Data Security:
 - [Secure File Locker (Python)](https://github.com/khucker3d/cyber-secure-file-locker-gui/blob/main/README.md): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
+
 - [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/README.md): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
+
 - [QR Code Generator (Python)](https://github.com/khucker3d/cyber-qr-code-generator/blob/main/README.md): A tool for generating branded QR code cards for portfolios, resumes, GitHub pages, and project links.
 
----
-
-## Ethical Hacking: *Coming Soon*
-- Home Lab Vulnerability Assessment
-- Web App Hacking Lab
-- Internal Network Reconnaissance Lab
-- Wi-Fi Security Assessment Lab
