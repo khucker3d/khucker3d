@@ -22,13 +22,15 @@ The goal is not only to present finished results, but also to show how I approac
 ---
 
 ## Projects
-***Documentation Scope:** These public repositories contain a high-level, sanitized overview of my projects. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational reports. Sensitive environment-specific details have been intentionally excluded for security reasons.*
+_**Documentation Scope:** These public repositories contain a high-level, sanitized overview of my projects. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational reports. Sensitive environment-specific details have been intentionally excluded for security reasons._
 
 - [Infrastructure & Hardening](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#infrastructure)
 - [Cyber Labs](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#cyber-labs)
 - [Detection & Monitoring](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#detection--monitoring)
 - [Authentication & Credential Hygiene](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#authentication--credential-hygiene)
 - [File & Data Security](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#file--data-security)
+
+_**AI-Generated Visuals**: Some diagrams and dashboard mockups in this repository were created with generative AI to support documentation and illustrate the lab design. These images are not screenshots of the live environment. All hostnames, usernames, IP addresses, domains, event data, alert counts, timestamps, and dashboard values shown in these visuals are fictional or sanitized examples intended for educational and portfolio use._
 
 ---
 
