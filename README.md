@@ -27,7 +27,6 @@ The goal is not only to present finished results, but also to show how I approac
 - [Infrastructure & Hardening](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#infrastructure)
 - [Cyber Labs](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#cyber-labs)
 - [Detection & Monitoring](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#detection--monitoring)
-- [Infrastructure Hardening](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#infrastructure--hardening)
 - [Authentication & Credential Hygiene](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#authentication--credential-hygiene)
 - [File & Data Security](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#file--data-security)
 
