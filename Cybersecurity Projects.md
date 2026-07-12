@@ -39,7 +39,7 @@ This public repository contains a high-level, sanitized overview of the project.
 ---
 
 ## File & Data Security:
-- [Secure File Locker (Python)](https://github.com/khucker3d/cyber-secure-file-locker-gui/blob/main/README.md): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
+- [Secure File Locker (Python)](https://github.com/khucker3d/cyber-secure-file-locker-gui/tree/main): An encryption tool that secures data using AES-GCM and PBKDF2 with password-based protection and integrity validation.
 
 - [PNG Steganography Generator (Python)](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/tree/main): A tool that securely hides encrypted messages inside PNG images using LSB steganography.
 
