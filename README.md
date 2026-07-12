@@ -33,6 +33,7 @@ _**Documentation Scope:** These public repositories contain a high-level, saniti
 - [Detection & Monitoring](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#detection--monitoring)
 - [Authentication & Credential Hygiene](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#authentication--credential-hygiene)
 - [File & Data Security](https://github.com/khucker3d/khucker3d/blob/main/Cybersecurity%20Projects.md#file--data-security)
+
 _**Note:** Documentation diagrams and dashboard mockups were generated with AI using sanitized example data.._
 
 ---
