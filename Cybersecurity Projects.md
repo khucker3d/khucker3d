@@ -1,4 +1,4 @@
-# Project Directory:
+# Project Directory: Cybersecurity, Networking & Infrastructure Projects
 
 **Documentation Scope:** 
 
