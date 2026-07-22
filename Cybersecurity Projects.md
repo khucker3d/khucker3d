@@ -7,7 +7,7 @@ This public repository contains a high-level, sanitized overview of the project.
 ---
 
 ## Infrastructure & Hardening:
-- [](https://github.com/khucker3d/infa-network-security-testing)
+- [(WIP)Network Security Testing](https://github.com/khucker3d/infa-network-security-testing/settings): Repeatable security tests used to validate the security posture of a home lab network.
 - [Enterprise-Inspired Home Network](https://github.com/khucker3d/infra-enterprise-infrastructure-architecture): A professionally engineered, enterprise-inspired home network designed to demonstrate modern network engineering, security architecture, infrastructure operations, monitoring, disaster recovery, and long-term operational management.
   
 - [Rasberry Pi Network Utility Server](https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/tree/main): A lightweight, reliable, and maintainable infrastructure services without exposing sensitive internal details publicly.
